@@ -1,0 +1,8 @@
+# Large data files
+*.bed.gz
+
+# Output directory
+sorted_bed_file_per_sample/
+
+# Temp directory
+tmp/
